@@ -1,10 +1,17 @@
 # 90-835-Team-Project
 
-## Enter the Patient Data
+## User Journey
 
-Run the Python notebook till you reach the last cell. At the last cell, you will be greeted with a UI, where you will have the option to upload patient data. The expected format of the data is a JSON Array. Upload a .json file on the UI.
+1. Run the Python notebook till you reach the last cell. At the last cell, you will be greeted with a UI, where you will have the option to upload patient data.
+2. The expected format of the data is a JSON Array. Upload a .json file on the UI.
+3. If your upload was successful, you should be redirected to a new page where you can genrate discharge letters
+4. Select the patient whose summary you want to generate from the dropdown.
+5. Add a custom prompt, where you can specify additional notes. eg. Make it very easy to understand for a six year old
+6. Generate the letter and download your pdf.
 
-## 
+## Images
+
+
 
 ### Sample Data To Upload
 
