@@ -12,9 +12,9 @@
 
 ## Images
 
-![image](/images/img1.png)
-![image](/images/img2.png)
-![image](/images/img3.png)
+![image](/UI_Images/img1.png)
+![image](/UI_Images/img2.png)
+![image](/UI_Images/img3.png)
 
 ### Sample Data To Upload
 
